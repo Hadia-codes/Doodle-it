@@ -2,7 +2,8 @@
 
 DoodleSpark is a web-based drawing application built for creative expression. It provides a minimalist and intuitive interface for doodling, sketching, and visualizing ideas.
 
-![DoodleSpark Intro Page](https://placehold.co/800x450.png?text=DoodleSpark+Intro)
+![DoodleSpark Intro Page](<img width="1918" height="905" alt="image" src="https://github.com/user-attachments/assets/4e86b2df-f41d-4de6-9944-4f92f4a39bac" />
+)
 *A preview of the DoodleSpark landing page.*
 
 ---
