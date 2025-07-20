@@ -10,12 +10,17 @@ park is a web-based drawing application built for creative expression. It provid
 
 - **Dynamic Intro Page:** A landing page with floating, neon-style doodles to create an engaging first impression.
 - **Intuitive Drawing Canvas:** A clean and responsive canvas for creative work.
+  <img width="1289" height="782" alt="image" src="https://github.com/user-attachments/assets/525175d0-a16e-46bf-8c02-fc2037d6d11b" />
+
 - **Color-Changing Background:** The drawing page features a subtly shifting background color to create a dynamic atmosphere.
-- **Switchable Canvas Theme:** Toggle the drawing canvas background between black and white.
+  
 - **Comprehensive Toolbar:**
   - **Pen & Eraser:** Switch between drawing and erasing.
+    <img width="1286" height="787" alt="image" src="https://github.com/user-attachments/assets/a205168c-0f90-4f4c-8388-6106b92bfd95" />
+
   - **Color Picker:** Select any color.
-  - **Brush Controls:** Adjust brush size (up to 100px) and opacity.
+    <img width="1287" height="782" alt="image" src="https://github.com/user-attachments/assets/4f1e281e-68ec-47d2-9882-51a8660aa13b" />
+
   - **Clear Canvas:** Reset the canvas.
   - **Save:** Download your work as a PNG file.
 - **Personalized Credit:** A footer on the intro page linking to GitHub and LinkedIn profiles.
